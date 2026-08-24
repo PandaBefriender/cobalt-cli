@@ -1,0 +1,8 @@
+**/*~
+**/.vscode
+**/__pycache__
+.gitattributes
+.git
+Dockerfile
+dataset.txt
+tinygpt.pt
